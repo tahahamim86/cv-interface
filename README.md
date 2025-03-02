@@ -1,16 +1,15 @@
-# flutter_application_1
+# **CV UI in Flutter**  
 
-A new Flutter project.
+## **Overview**  
+This project is a **Flutter-based CV application** that presents user information in a visually appealing format, similar to **Instagram's profile layout**. It is designed to showcase a user's **skills, experience, projects, and personal details** in an interactive and modern UI.  
 
-## Getting Started
+## **Technologies Used**  
+- **Programming Language:** Dart  
+- **Framework:** Flutter  
+- **UI Design:** Material Design  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Features**  
+✅ Modern and elegant UI inspired by Instagram  
+✅ Dynamic profile with user information, skills, and experience  
+✅ Scrollable sections for work history, projects, and education  
+✅ Responsive design for mobile and tablet devices  
